@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Itumeleng</h1>
-<h3 align="center">A passionate student eager to develope my skill in Artificial Intelligence and Machine Learning</h3>
+<h3 align="center">A passionate student eager to develop my skill in Artificial Intelligence and Machine Learning</h3>
 
-- 🔭 I’m currently working on **Stay-Hobbied**
+- 🔭 I’m currently working on **big_money_banking**
 
 - 🌱 I’m currently learning **Full-stack Web Development**
 
-- 💬 Ask me about **Database**
+- 💬 Ask me about **Databases**
 
-- 📫 How to reach me **kekanaitumeleng@gmail.com**
+- 📫 How to reach me **kekanaitumeleng25@gmail.com**
 
 - ⚡ Fun fact **I love art and fashion, and exploring how they highlight what is happening in the world**
 
