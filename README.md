@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **big_money_banking**
 
-- 🌱 I’m currently learning **Full-stack Web Development**
+- 🌱 I’m currently learning **Full-stack Web Development and 3D modelling**
 
 - 💬 Ask me about **Databases**
 
