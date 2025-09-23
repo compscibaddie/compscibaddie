@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **big_money_banking**
 
-- 🌱 I’m currently learning **Full-stack Web Development and 3D modelling**
+- 🌱 I’m currently learning **Software Engineering and 3D modelling**
 
-- 💬 Ask me about **Databases**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **kekanaitumeleng25@gmail.com**
 
