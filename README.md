@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Itumeleng</h1>
 <h3 align="center">A passionate student eager to develop my skill in Artificial Intelligence and Machine Learning</h3>
 
-- 🔭 I’m currently working on **big_money_banking**
+- 🔭 I’m currently working on **Personal_Curriculum_LMS**
 
 - 🌱 I’m currently learning **Software Engineering and 3D modelling**
 
